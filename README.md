@@ -17,4 +17,4 @@ ytwatch its a small youtube browser for old android version
 
 > cpu mt6580
 
->![everstar Q40 info](https://www.affariyet.com/smartphone-tunisie/everstar-q40-q40.html)
+>[everstar Q40 info](https://www.affariyet.com/smartphone-tunisie/everstar-q40-q40.html)
