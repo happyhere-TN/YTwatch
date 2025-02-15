@@ -1,19 +1,19 @@
 # YTwatch
 ytwatch its a small youtube browser for old android version
 
- **about ytwatch apk**
+ **about ytwatch apk**:
  - working for android v5.1 +
  - u can login ans signin
  - save cache (this thing make ytwatch show u the latest videos ur watchid when u open the apk)
  - stabel for old mobiles (512ram and 1gb ram) 
 
-**YT watch ico**
+**YT watch ico**:
  
  ![Image](https://github.com/happyhere-TN/YTwatch/blob/main/ytwatch.png?raw=true)
 
  
 
-**test it on:**
+**test it on:**:
 
 > everstar Q40
 
