@@ -8,8 +8,13 @@ ytwatch its a small youtube browser for old android version
  - stabel for old mobiles (512ram and 1gb ram) 
 
 > **test it on:**
+
 > everstar Q40
+
 > android 6.0
+
 > ram 1gb
+
 > cpu mt6580
+
 >![everstar Q40 info](https://www.affariyet.com/smartphone-tunisie/everstar-q40-q40.html)
