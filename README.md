@@ -1,5 +1,5 @@
 # YTwatch
-ytwatch its a small youtube browser for old android version
+ytwatch its a small youtube browser apk for old android version
 
  **about ytwatch apk**:
  - working for android v5.1 +
