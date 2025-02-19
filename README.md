@@ -11,7 +11,7 @@ ytwatch its a small youtube browser for old android version
  
  ![Image](https://github.com/happyhere-TN/YTwatch/blob/main/ytwatch.png?raw=true)
 
-**YT watch home menu**:
+**YT watch home page**:
  
  ![Image](https://raw.githubusercontent.com/happyhere-TN/YTwatch/refs/heads/main/homemenu.jpg)
 
